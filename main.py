@@ -85,6 +85,7 @@ ar.infrastruc(ana_res_path,pflag)
 header=[['time_stamp','year','month','day','hour','minute','second','time sec','time zero','delta time zero','beam','ip','loc','dcum','type','daq_name','mode','beamstatus',
          't_count','t_count_inc','t_count_start','restart','counts','dcounts','dtime','run','analysed',
          'file_name','file_name_path']]
+
 rosy_conf = [['daq_name'        ,'ip'   ,'beam' ,'loc'  ,'dcum'     ,'type'],
              ['ROSYAX106E20028' ,'4'    ,'1'    ,'1'    ,'9929.46'  ,'BCM1F' ],
              ['ROSYAX106E20021' ,'4'    ,'1'    ,'2'    ,'9936.93'  ,'BCM1F' ],
